@@ -4,17 +4,17 @@
 </center>
 
 # Table of content
-- [Introduction to vim](https://github.com/amirhosseinzibaei/vim#introduction-to-vim)
-- [Working with vim (overview)](https://github.com/amirhosseinzibaei/vim#overview-of-using-vim)
-- [Basic Commands](https://github.com/amirhosseinzibaei/vim#basic-commands)
-- [Some Usefull tricks](https://github.com/amirhosseinzibaei/vim#tricks)
+- [Introduction to vim](#introduction-to-vim)
+- [Working with vim (overview)](#overview-of-using-vim)
+- [Basic Commands](#basic-commands)
+- [Some Usefull tricks](#tricks)
 - [References]()
 
 
 # Introduction to vim
-- [What is vim?](https://github.com/amirhosseinzibaei/vim#what-is-vim)
-- [The diffrence between **vi** and **vim**](https://github.com/amirhosseinzibaei/vim#vim-vs-vi)
-- [Why shoud we use vim?](https://github.com/amirhosseinzibaei/vim#why-shoud-we-use-vim)
+- [What is vim?](#what-is-vim)
+- [The diffrence between **vi** and **vim**](#vim-vs-vi)
+- [Why shoud we use vim?](#why-shoud-we-use-vim)
 
 ## What is vim?
 Vim is a powerfull *text editor*. It's useful for programmers and others actually.
