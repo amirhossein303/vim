@@ -124,12 +124,12 @@ Ok very well let's jump into the vim commands that everyone need to know.
 ## Basic Commands
 Now we are going to look at some important and useful commands.
 
-- Navigation commands
-- Insert/Append/Editing
-- Cut/Paste/Delete
-- Visual Mode
-- Search and subsitute
-- some commands to write and quit the file
+- [Navigation commands](#navigation-commands)
+- [Insert/Append/Editing](#insertappend)
+- [Cut/Paste/Delete](#cutpastedelete)
+- [Visual Mode](#visual-mode-so-cool)
+- [Search and subsitute](#search-and-subsitute)
+- [some commands to write and quit the file](#some-commands-to-writequite-of-the-vim)
 
 ### Navigation commands
 - **h, j ,k, l**: Move cursor: [left: **h**, down: **j**, up: **k**, right: **l**]
