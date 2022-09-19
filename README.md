@@ -21,7 +21,8 @@ And does a lot of things for us as common editors can do, like *Editing all kind
 
 so vim is not a graphical editor like `vscode` and other editor. it based on *text* and the mouse is not longer need to interactive around vim. (there is a graphical version of vim: `gvim`)
 
-and for working with vim and do your own actions we use `commands`. for example for saving the file we use `:w[rite]` command or for going out of file we can use `:q[ite]` command and so on. we check them soon
+and for working with vim and do your own actions we use `commands`. for example for saving the file we use `:w[rite]` command or for going out of file we can use `:q[uit
+]` command and so on. we check them soon
 
 for more information you can see the *man page* of vim
 
