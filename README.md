@@ -8,7 +8,6 @@
 - [Working with vim (overview)](#overview-of-using-vim)
 - [Basic Commands](#basic-commands)
 - [Some Usefull tricks](#tricks)
-- [References]()
 
 
 # Introduction to vim
