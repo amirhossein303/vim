@@ -164,7 +164,7 @@ Now we are going to look at some important and useful commands.
 - **Ctrl+v**: visual block
 - **V**: visual line
 - **>>, <<**: Indentation/Shift
-- **u, U, ~**: Change case
+- **u,U,~**: Change case
 
 ### Search and subsitute
 - **/pattern**: search after cursur
